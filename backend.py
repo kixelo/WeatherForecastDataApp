@@ -1,5 +1,4 @@
 import requests
-import streamlit as st
 
 API_KEY = "487d5e31a2d60fcb21bd53e4f55c31f6"
 
